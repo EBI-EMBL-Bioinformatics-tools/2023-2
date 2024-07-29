@@ -11,9 +11,6 @@ Authors: Laura Valentina Acosta Corredor,Nicolas Aparicio Claros & Juanita Puent
 Leigh syndrome is a progressive neurometabolic disorder primarily affecting pregnant women and infants aged 3 to 12 months, characterized by muscle tone deficits, spasticity, and growth delays. Current treatment focuses on symptom management due to the polygenic nature of the disorder, with around 50 identified genes linked to oxidative phosphorylation pathways. However, the complex genetic diversity complicates the understanding of how mutations lead to the syndrome, making it difficult to identify specific therapeutic targets. This study reviews five major genes associated with Leigh syndrome using data from the European Bioinformatics Institute (EBI), analyzing structural information, biological roles, and known variants. By examining the impact of characteristic mutations on protein domains and their roles in the oxidative phosphorylation pathway, particularly in the formation and activation of complex III in the electron transport chain, this research enhances understanding of the molecular mechanisms of Leigh syndrome and supports the development of more effective therapeutic strategies.
 
 Repo: https://github.com/naparicioc/Leigh_Syndrome_EBI 
-
-[![Watch the Video](https://img.youtube.com/vi/abc123/hqdefault.jpg)](https://www.youtube.com/watch?v=wjJBgLr3Fzo)
-
 [video](https://www.youtube.com/watch?v=wjJBgLr3Fzo)
 
 2) Use of bioinformatics tools for the study of alpha-1-antitrypsin deficiency
